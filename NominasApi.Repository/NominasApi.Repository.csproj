@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NominasApi.Abstractions\NominasApi.Abstractions.csproj" />
+    <ProjectReference Include="..\NominasApi.DataAccess\NominasApi.DataAccess.csproj" />
+    <ProjectReference Include="..\NominasApi.Entities\NominasApi.Entities.csproj" />
+    <ProjectReference Include="..\NominasApi.Services\NominasApi.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{508349b6-6b84-4df5-91f0-309beebad82d}" />
+  </ItemGroup>
+
+</Project>

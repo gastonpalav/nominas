@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NominasApi.Abstractions\NominasApi.Abstractions.csproj" />
+    <ProjectReference Include="..\NominasApi.Entities\NominasApi.Entities.csproj" />
+    <ProjectReference Include="..\NominasApi.Repository\NominasApi.Repository.csproj" />
+    <ProjectReference Include="..\NominasApi.Services\NominasApi.Services.csproj" />
+  </ItemGroup>
+
+</Project>

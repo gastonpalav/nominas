@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NominasApi.DataAccess</id>
+    <version>1.0.0</version>
+    <authors>NominasApi.DataAccess</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="NominasApi.Abstractions" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="NominasApi.Entities" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="NominasApi.Services" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\PC\Documents\nominasApi\NominasApi\NominasApi.DataAccess\bin\Debug\net5.0\NominasApi.DataAccess.dll" target="lib\net5.0\NominasApi.DataAccess.dll" />
+  </files>
+</package>

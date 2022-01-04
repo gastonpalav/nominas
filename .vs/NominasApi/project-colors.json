@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c52640f2-1465-4d10-b482-a1337bc3792c": {
+      "ProjectGuid": "c52640f2-1465-4d10-b482-a1337bc3792c",
+      "DisplayName": "NominasApi.WebApi",
+      "ColorIndex": 0
+    },
+    "d11aa57d-8f41-4886-9c03-2aac54129b74": {
+      "ProjectGuid": "d11aa57d-8f41-4886-9c03-2aac54129b74",
+      "DisplayName": "NominasApi.Application",
+      "ColorIndex": 1
+    },
+    "6ce2a8bd-823d-476f-88e7-068432e0c5ee": {
+      "ProjectGuid": "6ce2a8bd-823d-476f-88e7-068432e0c5ee",
+      "DisplayName": "NominasApi.Entities",
+      "ColorIndex": 2
+    },
+    "c61eb84a-095d-4f24-be69-7012fb53954b": {
+      "ProjectGuid": "c61eb84a-095d-4f24-be69-7012fb53954b",
+      "DisplayName": "NominasApi.Repository",
+      "ColorIndex": 3
+    },
+    "c09047de-72b3-44cc-a502-eecc3e0d3528": {
+      "ProjectGuid": "c09047de-72b3-44cc-a502-eecc3e0d3528",
+      "DisplayName": "NominasApi.DataAccess",
+      "ColorIndex": 4
+    },
+    "fa5af407-73b3-43c1-849f-fc4cf0a9b283": {
+      "ProjectGuid": "fa5af407-73b3-43c1-849f-fc4cf0a9b283",
+      "DisplayName": "NominasApi.Services",
+      "ColorIndex": 5
+    },
+    "047849ff-1de5-4d70-8c65-b4cbcdd52ede": {
+      "ProjectGuid": "047849ff-1de5-4d70-8c65-b4cbcdd52ede",
+      "DisplayName": "NominasApi.Abstractions",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
